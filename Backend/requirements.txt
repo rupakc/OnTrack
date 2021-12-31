@@ -1,0 +1,8 @@
+lime
+dill
+pandas
+gmplot
+scikit-learn==0.19.1
+pymongo
+numpy==1.13.3
+django==1.11.15

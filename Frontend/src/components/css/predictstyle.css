@@ -1,0 +1,5 @@
+lime.table_div {
+    max-height: 300px;
+    flex: 1 0 300px;
+    overflow: auto;
+}
